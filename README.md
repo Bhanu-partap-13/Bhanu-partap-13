@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu Partap</h1>
 <h3 align="center">I am currently enrolled in my BTech degree and passionate about exploring various aspects of technology. Allow me to provide a concise overview of my abilities and passions:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhanu-partap-13&label=Profile%20views&color=0e75b6&style=flat" alt="Bhanu-partap-13" /> </p>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 - 🔭 I’m currently working on [Peoples Lens](git@github.com:Bhanu-partap-13/People-s-Lens.git)
