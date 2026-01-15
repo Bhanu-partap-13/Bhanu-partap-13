@@ -39,8 +39,8 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<a href="https://github.com/ryo-ma">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
 </a>
 
 </div>
@@ -143,7 +143,7 @@ Bhanu-partap-13@github:~$ ./welcome.sh
 <div align="center">
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bhanu-partap-13&theme=dracula&hide_border=false&border_radius=5)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Bhanu-partap-13&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
 
 <br/>
 
@@ -169,6 +169,9 @@ Bhanu-partap-13@github:~$ ./welcome.sh
 
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-partap-13&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+<!-- Alternative if above doesn't work -->
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-partap-13&custom_title=Bhanu%20Partap's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 
 </div>
 
