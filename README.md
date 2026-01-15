@@ -148,13 +148,13 @@ Bhanu-partap-13@github:~$ ./welcome.sh
   <tbody>
     <tr>
       <th>
-        <a href="https://nirzak-streak-stats.vercel.app/?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
         </a>
       </th> 
       <th>
-        <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Bhanu-partap-13&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhanu-partap-13&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400"/>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Bhanu-partap-13">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhanu-partap-13&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&hide_border=false" alt="Top Languages"/>
         </a>
       </th>
     </tr>
@@ -165,13 +165,13 @@ Bhanu-partap-13@github:~$ ./welcome.sh
   <tbody>
     <tr>
       <th>
-        <a href="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&locale=en&">
-          <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&locale=en&theme=dracula"/>
+        <a href="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13">
+          <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&locale=en&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-partap-13">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-partap-13&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-partap-13&theme=dracula" alt="Profile Summary"/>
         </a>
       </th>
     </tr>
