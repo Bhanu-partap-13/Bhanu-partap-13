@@ -37,11 +37,15 @@
 
 ## 🏆 GitHub Trophies
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
+
 <div align="center">
 
-<a href="https://github.com/ryo-ma">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
+<a href="https://github-trophies.vercel.app/?username=Bhanu-partap-13" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=8">
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)
 
 </div>
 
@@ -140,77 +144,80 @@ Bhanu-partap-13@github:~$ ./welcome.sh
 
 ## 📊 GitHub Stats
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
-
-### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=Bhanu-partap-13&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
-
-<br/>
-
-### 📈 GitHub Statistics
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-partap-13&layout=compact&theme=dracula&hide_border=false&langs_count=10&card_width=320" alt="Top Languages" />
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://nirzak-streak-stats.vercel.app/?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
+        </a>
+      </th> 
+      <th>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Bhanu-partap-13&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhanu-partap-13&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
+  
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&locale=en&">
+          <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&locale=en&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-partap-13">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-partap-13&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
 </table>
 
-<br/>
-
-### 📉 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-partap-13&theme=dracula" alt="Profile Summary" width="100%" />
-
-<br/>
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-partap-13&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-<!-- Alternative if above doesn't work -->
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-partap-13&custom_title=Bhanu%20Partap's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
-
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-partap-13&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
+
+<br>
+
+### 📈 3D Contribution Graph
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
+<div align="center">
+  <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Metrics" width="100%">
+</div>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhanu-partap-13/bhanu-partap/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhanu-partap-13/bhanu-partap/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bhanu-partap-13/bhanu-partap/output/github-snake.svg" />
-</picture>
-
-</div>
+### 🐍 Snake Eating My Contributions
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhanu-partap-13/bhanu-partap/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhanu-partap-13/bhanu-partap/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Bhanu-partap-13/bhanu-partap/output/github-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
-
-### 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
----
-
-### ⭐ Show some love by starring some repositories!
-
-**Thanks for visiting! Feel free to explore my projects and reach out for collaborations! 🚀**
-
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
+<br>
+  
+  ![](https://count.getloli.com/get/@Bhanu-partap-13.github.readme)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  **Thanks for visiting my profile! 🙏**
+  
+  *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
 </div>
