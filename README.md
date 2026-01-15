@@ -41,11 +41,7 @@
 
 <div align="center">
 
-<a href="https://github-trophies.vercel.app/?username=Bhanu-partap-13" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=8">
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)
+<img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -192,7 +188,7 @@ Bhanu-partap-13@github:~$ ./welcome.sh
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
-  <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Metrics" width="100%">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 <br>
 
