@@ -149,7 +149,7 @@ Bhanu-partap-13@github:~$ ./welcome.sh
     <tr>
       <th>
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+          <img src="https://github-readme-streak-stats.vercel.app?user=Bhanu-partap-13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
         </a>
       </th> 
       <th>
