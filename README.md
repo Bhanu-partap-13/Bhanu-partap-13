@@ -39,11 +39,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-<div align="center">
+<a href="https://github-trophies.vercel.app/?username=Bhanu-partap-13" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=8">
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=dracula&no-frame=false&no-bg=false&margin-w=15&row=2&column=6" alt="GitHub Trophies" />
-
-</div>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
