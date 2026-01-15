@@ -39,7 +39,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -150,10 +152,10 @@ Bhanu-partap-13@github:~$ ./welcome.sh
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-partap-13&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-partap-13&layout=compact&theme=dracula&hide_border=false&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-partap-13&layout=compact&theme=dracula&hide_border=false&langs_count=10&card_width=320" alt="Top Languages" />
     </td>
   </tr>
 </table>
