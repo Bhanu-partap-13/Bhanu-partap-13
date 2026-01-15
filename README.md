@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bhanu-partap-13&theme=dracula&no-frame=false&no-bg=false&margin-w=15&row=2&column=6" alt="GitHub Trophies" />
 
 </div>
 
