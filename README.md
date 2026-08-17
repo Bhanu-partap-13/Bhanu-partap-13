@@ -182,18 +182,6 @@ Bhanu-partap-13@github:~$ ./welcome.sh
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-partap-13&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 
-<br>
-
-### 📈 3D Contribution Graph
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
-</div>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ### 🐍 Snake Eating My Contributions
